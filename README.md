@@ -21,13 +21,3 @@ I created an analytical workspace to understand how stock markets behave over ti
 | **Environment** | **Jupyter Notebook** for interactive step-by-step analysis. |
 
 ---
-
-## 📂 Repository Structure
-
-```text
-Market-Volatility-Analysis/
-├── Market_Volatility_Pattern_Analysis.ipynb  # The core interactive notebook containing all code, math, and charts
-└── data/                                     # (Expected) Directory for storing the historical CSV/JSON financial datasets
-```
-
----
