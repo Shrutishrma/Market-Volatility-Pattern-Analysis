@@ -31,6 +31,3 @@ Market-Volatility-Analysis/
 ```
 
 ---
-    * Open your terminal in the project folder.
-    * Run `jupyter notebook` to open the environment.
-    * Open `Market_Volatility_Pattern_Analysis.ipynb` and run the cells from top to bottom to see the data visualizations generate in real-time.
